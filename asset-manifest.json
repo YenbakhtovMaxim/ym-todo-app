@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/ym-todo-app/static/css/main.31d6cfe0.css",
+    "main.js": "/ym-todo-app/static/js/main.ebaf49bb.js",
+    "index.html": "/ym-todo-app/index.html",
+    "main.ebaf49bb.js.map": "/ym-todo-app/static/js/main.ebaf49bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.ebaf49bb.js"
+  ]
+}
